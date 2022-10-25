@@ -1,0 +1,153 @@
+1. TITLE: HOW AI COULD EMPOWER ANY BUSINESS? - ANDREW NG, TED, 2022:
+		UNDERSTANDING: You should learn AI because its like the new literacy, everybody needs to learn it to survive to maximum.
+		
+		MEMORY: RISE OF AI IS SIMILAR TO RISE OF LITERACY, AI LEARNING IS A MUST FOR THE FUTURE
+		
+		PRACTICE: RISE OF AI IS SIMILAR TO RISE OF LITERACY, AI LEARNING IS A MUST FOR THE FUTURE
+		
+		REPETITION: 3
+	
+2. TITLE: MASTER PYTHON WITH THESE 5 PROJECTS - TECH WITH TIME:
+	UNDERSTANDING:
+		PROJECT IDEA 1: SCRIPTING AND AUTOMATION:
+				AUTOMATION SCRIPTS 
+				COMMAND LINE TOOLS
+				ANYTHING THAT MANIPULATES FILE, FOLDERS, DIRECTORIES OR THINGS THAT DOES REPETITIVE TASKS
+				write a script that deletes everything from your downloads folder or something like that, the script doesn't have to be overly complicated, just something that does repetitive task which you would do manually instead
+				learn the OS module, pathlib module, python is really good at these tasks with files and folders, very fast to write code using these kinds of things with python
+		
+		PROJECT IDEA 2: WEB DEVELOPMENT
+				one of the more practical things to do with python
+				building websites
+				building restAPIs
+				building back-ends
+				
+				building front-end with django/flask and sprinkling in HTML, JS, CSS, etc.
+				build something with python that has an authentication system, that's gonna be good learning experience, looks great on an resume, will learn a lot of skills
+				build a twitter clone! 
+		
+		PROJECT IDEA 3: WEB SCRAPING AND DATA COLLECTION
+				collect a large amount of information either from an api or by scraping a website
+				take all the data, parse through it, you pull out the meaningful parts and display it in some kind of a dashboard
+				graphical interfaces are a little difficult with python, you can use matplotlib to set up a chart or graph or create a front-end with basic js,css,html skills
+				i recommend having two distinct parts of the project where you have data collection, parsing through the data, cleaning it up, knowing how to work with larger pieces of data, maybe use something like pandas, maybe you're saving stuff in large json files, or databases and then you actually go and kind of display this and make it a bit visual and graphical
+				in terms of a specific project, i recommend you do something with GitHub, like a github language tracker based on percentage of languages on github repositories
+		
+		PROJECT IDEA 4: GAME DEVELOPMENT
+				use a module like pygame, pymunk(for physics related animation and stuffs)
+				few game ideas: battleships, brick breaker, space invaders, pong, flappy bird, mario, pokemon, etc.
+				making a game is a different skill set
+				designing a program
+				laying out a screen, all the maths related to it like the geometry and how you do collision, jumping, writing gravity, you will find yourself applying things like basic physics, math or trigonometry and its cool because you are taking stuff that's not just programming and kind of implementing it into your code
+				how do i spawn objects on the screen
+				how do i reset a game
+				how do i make this kind of scalable, so i could add new levels or new objects, it gives you in my opinion a decent perspective, kind of program design and i think its something useful which a lot of you could find some value in 
+		
+		PROJECT IDEA 5: WEB3 QUERYING
+				something that is relevant with the trends in tech today
+				
+				querying the blockchain
+				grabbing information about the most recent block
+				graphing the trend in difficulty
+				grabbing your wallet address and creating maybe even a blockchain wallet that allows you to send ethereum, receive ethereum, view all of your different transactions, track the balance of your account over time
+		
+		PROJECT IDEA 6: (BONUS) MACHINE LEARNING AND DATA SCIENCE
+				this is a whole different field of programming and its a very different skill set.
+				working with machine learning models
+				understanding how to analyze large-scale data 			
+	
+	MEMORY: 
+		title of the 5 projects: scripting and automation, web dev, web scraping and data collection, game dev, web3 querying, ml/ds
+	
+	PRACTICE: (currently) none
+		try out one basic project from each of these topics, tomorrow
+	
+	REPETITION: 
+		none
+
+TITLE: Precise Data structures roadmap by Hitesh Choudhary
+
+	UNDERSTANDING:
+		ARRAY:
+			most important data structure
+			learn array to the best
+			learn all the CRUD(create read update delete) operations
+			all the search operations
+			learn to what point array is good 
+			and when use of array is not good
+			
+		LINKED LIST:
+			search, insertion, deletion
+			singular, doubly and circular linked list
+			just learn the rules of defining these
+		
+		STACK:
+			Last in first out, First in last out
+			very simple but dont underestimate the power of stack
+			easiest DS
+			pop, push
+			not much dynamic thing going on
+		
+		QUEUES:
+			queues will be used a lot, in aws, video processing like rabbitmq
+			dont need multi threading and how it works, basic idea is enough
+			enqueue, dequeue		
+		
+		HASH TABLES:
+			also called hash map, dictionary, hash sets
+			it looks easy, but its not, might want to focus a bit more
+			directly pinpointing where the value is stored, these are key-value pairs
+			used heavily in database indexing and you will be solving a whole lot of competitive programming problems
+			dont go too much into the algorithm rabbit hole just yet, you just want to master 
+			how it looks like, 
+			how can I access some elements, 
+			how can I remove some element
+		
+		TREES:
+			Monster of the Data Structures, majority get confused here
+			just learn about the binary search tree
+			you might want to learn about what is parent node, 
+			what is left child
+			what is right child
+			how to access them
+			how to traverse just only on the left side
+			how to traverse just only on the right side
+			how to traverse on the breadth side
+			how to traverse on the length side
+			you want to really master all of this
+			
+			common mistake that people do is before truly understanding binary search tree, they want to get into fancy trees like red black or avl
+			but what you dont know is majority of them are coming up from this BST, they are some version, modifed version of BST
+			recommendation is not to go into 10 different types of bst right now, it will come in the second round of learning trees as a data structure
+			BUT FIRST MASTER BINARY SEARCH TREE
+			
+		HEAP:
+			heap is gonna take an hour at max if you have good understanding of BST
+			there are treaps(tree + heaps) but not much common 
+			
+		GRAPHS:
+			as complicated as you want them
+			but you want to learn the basics of that
+			how the graph works
+			what are the vertices
+			what are indexes, nodes
+			what are directed graphs, non-directed or cyclic, acyclic graphs?
+			just the basic theory of them  and just the basic operation of them is fine
+			for graphs you can spend months, maybe years to learn all about them
+			you learn a lot more of GRAPHS when you do competitive programming, this is much more easier way of learning the graphs
+			
+		
+			
+	MEMORY:
+			Array -> crud, search
+			Linked List -> (singly, doubly, circular) crud, search, insertion, deletion
+			Stack -> crud, pop(), push()
+			Queue -> crud, enqueue(), dequeue()
+			Hashtable -> crud, access, remove
+			Tree -> only BST, crud, parent node, left/right child how to access, how to traverse just left side, how to traverse just right side, DFS, BFS
+			Heap -> minHeap, maxHeap, crud
+			Graph -> basic graph theory, basic operations, crud
+	
+	PRACTICE: none
+	
+	REPETITION: none
