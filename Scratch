@@ -57,4 +57,29 @@ How to crack the code of perfect computer science study sessions in the morning?
     It means to guess everyday or in every repetition of the process, for the right answer, or improving the process that you know works for the shit you are doing but its not customized to your liking and you just want to know which factor to change to customize it perfectly.
 I am studying lecture 1 of Intro to CS & Prog for a week now, but I still dont think I have managed to learn all that is being said there, i dont have the lecture memorized, i have not made proper questions from the lecture to test myself on it.
 
-now edit from the local host machine, try git pull and continue editing there
+now edit from the local host machine, try git pull and continue editing there, yes it worked and i am editing now from vi of fedora os. thanks!
+
+Tomorrow, I plan to move beyond the first lecture, you know what he said in the
+first on average, first he discusses the goals, strategic and tactical ones,
+aim and focus of the course on people who have poor or no coding experience,
+then he talks about computational thinkng and computation in general, how to
+think of that? Computation is nothing but glorified recipe making, probably for
+the things inside the machine rather than real food, whatever you want to make,
+learn the process and don't question unnecessarily, and then you talk about
+interpreters as the heart of computer is misstatement, fixed programme
+computers, stored program computers, atanasoff 1941 for linear equations,
+program counter as the basis of computation, moving on to syntax, static
+semantics, full semantics and style of writing code, give me six primitives and i can rule the world, dimensions of a programming language, high or low, general or targetted, interpreted or compiled, python as high level, general, interpreted language, alan turing, turing compatibility, computataion is a recipe, error detection easiest in syntax level, difficult in static semantics, not available in full semantic
+
+syntax - what are the legal expressions in the language
+static semantic - what programs are meaningful, not whether the right meaning or wrong, just if it tries any meaning or not
+full semantic - what does the program mean? what will happen when you run it? will you get the right answer that you are looking for?
+
+i love that the teacher said that for any problem concerning laptop of digital medium, i want you to think how to write some code to solve this.
+
+compuatational thinking
+understand code
+capabilities and limitations of computation
+mapping scientific problems into compuatational framework
+
+
