@@ -10,3 +10,7 @@ Do this with huggingface, deepmind, monkeytype.
 Learn the most used frameworks in the open source world, so that you can build stuff for other people using those tools.
 
 I belive in myself, I can crack the DSA exams and also make and contribute to cool online projects, I can become good in computer scinece with continuous efforts. Thank you GOD for this wonderful opportunity.
+
+*always do git add,commit and push from the main directory, not some subdirectory, only the files in the subdirectory will be added and then you have to the rest by going back, better way is to do them all at once from the main directory.
+
+*today i learnt about when to use git commit amend but did not have the energy to learn, i will learn after my stomach feels okay.
