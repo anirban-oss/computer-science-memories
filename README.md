@@ -1,13 +1,11 @@
 # computer-science-memories
-i collect here what i have learned very well in computer science for future references.
-Computational thinking  
-Design thinking  
 
-what do you want to do?  
-do you really want to make it in CS ?  
-    what is the limit when you stop this journey?  
-do you want to live just an easy life?  
-    is it okay to you if you can never do luxury things.  
+> _Look at a stone cutter hammering away at his rock,    
+perhaps a hundred times without as much as a crack showing in it.    
+Yet at the hundred-and-first blow it will split in two,    
+and I know it was not the last blow that did it,    
+but all that had gone before._
 
-what do you want to do?  
-    will computer science win that for you?  
+I collect here what i have learned very well in computer science for future references.
+
+` Computational thinking + Design thinking ` 
