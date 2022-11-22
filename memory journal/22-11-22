@@ -1,0 +1,16 @@
+I havent memorized anything until now, though i may have found things useful to memorize like how to do optional arguments while defining a function in python.
+
+Also I have no list of what i can revise to reinforce the learning in past.
+
+1. how to do optional arguments while defining a function in python.
+
+you do it like this:
+	def function(arg, arg, arg = 'text'):
+when you intialise an parameter inside the function definition, it doesnt matter if the user provides the argument to it or not in later usecases and function calls.
+
+2. difference between parameters and arguments in python.
+
+arguments are the input when you use a function by calling
+
+parameters are the input when you define a function for the first time
+parameters define what argument to use in function calls.
