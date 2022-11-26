@@ -1,4 +1,5 @@
 # computer-science-memories
+Nov 24 2022 - I got kaggleX mentee grant!!!   
 
 > _Look at a stone cutter hammering away at his rock,    
 perhaps a hundred times without as much as a crack showing in it.    
