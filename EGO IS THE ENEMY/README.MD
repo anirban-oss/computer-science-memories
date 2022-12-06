@@ -1,7 +1,7 @@
 Daily ego check writing:
 
 Aspiring: (equal method)
-	write about your desired today.
+	write about your desires today.
 	if you wanted to be equal to somebody you admire or you wanted it all for yourself only, singular greatness
 	always aspire to be equal and helpful to others
 
